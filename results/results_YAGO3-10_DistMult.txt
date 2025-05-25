@@ -1,0 +1,5 @@
+Dataset: YAGO3-10
+Model: DistMult
+MRR: 0.0355
+Hits@1: 0.0195
+Hits@10: 0.0622

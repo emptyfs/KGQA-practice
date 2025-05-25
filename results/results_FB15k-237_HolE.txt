@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: HolE
+MRR: 0.1484
+Hits@1: 0.0869
+Hits@10: 0.2724

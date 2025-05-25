@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: RESCAL
+MRR: 0.0004
+Hits@1: 0.0
+Hits@10: 0.0003

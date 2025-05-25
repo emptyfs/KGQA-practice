@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: RotatE
+MRR: 0.2412
+Hits@1: 0.1641
+Hits@10: 0.4006

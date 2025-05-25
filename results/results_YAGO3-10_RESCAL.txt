@@ -1,0 +1,5 @@
+Dataset: YAGO3-10
+Model: RESCAL
+MRR: 0.0001
+Hits@1: 0.0
+Hits@10: 0.0

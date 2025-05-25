@@ -1,0 +1,5 @@
+Dataset: YAGO3-10
+Model: RotatE
+MRR: 0.1347
+Hits@1: 0.0836
+Hits@10: 0.2342

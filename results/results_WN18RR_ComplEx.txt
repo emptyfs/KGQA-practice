@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: ComplEx
+MRR: 0.0364
+Hits@1: 0.0186
+Hits@10: 0.0693

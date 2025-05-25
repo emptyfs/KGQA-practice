@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: HolE
+MRR: 0.2625
+Hits@1: 0.237
+Hits@10: 0.3124

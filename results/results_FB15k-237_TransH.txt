@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: TransH
+MRR: 0.1618
+Hits@1: 0.0968
+Hits@10: 0.2886

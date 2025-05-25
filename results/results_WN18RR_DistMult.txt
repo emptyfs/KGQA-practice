@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: DistMult
+MRR: 0.382
+Hits@1: 0.3545
+Hits@10: 0.4287

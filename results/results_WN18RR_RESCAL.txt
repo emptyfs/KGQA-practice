@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: RESCAL
+MRR: 0.0038
+Hits@1: 0.0009
+Hits@10: 0.0046

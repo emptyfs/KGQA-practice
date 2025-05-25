@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: ComplEx
+MRR: 0.0591
+Hits@1: 0.0327
+Hits@10: 0.1072

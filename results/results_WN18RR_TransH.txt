@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: TransH
+MRR: 0.0729
+Hits@1: 0.0304
+Hits@10: 0.1556

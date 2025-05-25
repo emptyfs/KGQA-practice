@@ -1,0 +1,5 @@
+Dataset: FB15k-237
+Model: TransR
+MRR: 0.1053
+Hits@1: 0.0613
+Hits@10: 0.1857

@@ -1,0 +1,5 @@
+Dataset: YAGO3-10
+Model: HolE
+MRR: 0.0599
+Hits@1: 0.0339
+Hits@10: 0.1053

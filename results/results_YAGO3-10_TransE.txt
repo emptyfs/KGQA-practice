@@ -1,0 +1,5 @@
+Dataset: YAGO3-10
+Model: TransE
+MRR: 0.0499
+Hits@1: 0.0274
+Hits@10: 0.0892

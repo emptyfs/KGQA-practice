@@ -1,0 +1,5 @@
+Dataset: WN18RR
+Model: RotatE
+MRR: 0.4253
+Hits@1: 0.4094
+Hits@10: 0.4545
